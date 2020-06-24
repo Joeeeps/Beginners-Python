@@ -1,0 +1,3 @@
+apple,89
+orange,90
+dog,89
